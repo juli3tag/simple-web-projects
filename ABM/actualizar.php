@@ -1,5 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
 
     Descripción: Actualiza un producto en la base de datos para el TP3 de la materia Programación Web.
     Este archivo recibe los datos del formulario de edición y actualiza el producto correspondiente en la base de datos.
