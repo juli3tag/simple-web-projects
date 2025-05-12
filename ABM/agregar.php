@@ -1,7 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 
-    Legajo: VINF014900
-    Fecha de entrega: 28/04/2025
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
 
     Descripcion: Agrega un nuevo producto a la base de datos para el TP3 de la materia Programación Web.
     Este archivo muestra un formulario para ingresar los datos del nuevo producto.
