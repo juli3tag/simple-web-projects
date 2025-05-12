@@ -1,8 +1,6 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 
-    Legajo: VINF014900
-    Fecha de entrega: 28/04/2025
-
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Fichero principal de la tienda de artículos de Harry Potter para el TP3 de la materia Programación Web.
     Este archivo muestra una lista de productos disponibles en la tienda.
     Permite agregar, editar y eliminar productos de la base de datos.
