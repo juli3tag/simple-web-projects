@@ -1,5 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Fichero principal de la tienda de artículos de Harry Potter para el TP3 de la materia Programación Web.
     Este archivo muestra una lista de productos disponibles en la tienda.
