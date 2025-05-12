@@ -1,6 +1,6 @@
 <?php
 
-/* Gonzalez Gutierrez Julieta Maiara 🌷
+/* Gonzalez Julieta 🌷
     
     Tema: Sesiones y formularios
     Objetivo: Crear un formulario que permita ingresar datos y guardarlos en una sesión. 
