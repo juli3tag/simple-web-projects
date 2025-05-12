@@ -1,5 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Elimina un producto de la base de datos para el TP3 de la materia Programación Web.
     Este archivo recibe el ID del producto a eliminar y lo elimina de la base de datos.
