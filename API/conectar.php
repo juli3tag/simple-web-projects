@@ -1,8 +1,7 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara
-    Legajo: VINF014900
-    Fecha de entrega: 05/05/2025
-    Descripcion: Script de conexión a la base de datos para el TP4 de Desarrollo Web
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
+    Descripcion: Script de conexión a la base de datos.
     */
 
 // Conexión a la base de datos
