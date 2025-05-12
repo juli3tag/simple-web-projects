@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 
-<!-- Gonzalez Gutierrez Julieta Maiara
-    Legajo: VINF014900
-    Fecha de entrega: 05/05/2025
+<!-- Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Script HTML para la consulta de usuarios de la API de Harry Potter
 
     El codigo HTML incluye un formulario para ingresar el ID del usuario y un area de texto para mostrar el resultado en formato JSON.
