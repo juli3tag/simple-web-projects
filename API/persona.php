@@ -1,6 +1,6 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Clase Persona para manejar la consulta de datos de una persona en la base de datos
     */
