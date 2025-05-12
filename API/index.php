@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- Gonzalez Gutierrez Julieta Maiara 🌷
+<!-- Gonzalez Julieta 🌷
     
     Descripcion: Script HTML para la consulta de usuarios de la API de Harry Potter
 
