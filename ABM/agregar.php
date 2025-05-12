@@ -1,5 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
 
     Descripcion: Agrega un nuevo producto a la base de datos para el TP3 de la materia Programación Web.
     Este archivo muestra un formulario para ingresar los datos del nuevo producto.
