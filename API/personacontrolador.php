@@ -1,6 +1,6 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Controlador para manejar la lógica de negocio de la API
     */
