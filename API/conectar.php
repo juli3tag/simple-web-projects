@@ -1,5 +1,5 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Script de conexión a la base de datos.
     */
