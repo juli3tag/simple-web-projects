@@ -1,0 +1,133 @@
+/* Estilos personalizados*/
+body {
+    background-color: #1A1A2E;
+    color: #f8f9fa;
+    font-family: 'Georgia', serif;
+  }
+  
+  /* Barra superior */
+  .top-bar {
+    background-color: #171722;
+    padding: 0.5rem 1rem;
+    text-align: right;
+  }
+  
+  .top-bar a {
+    color: #D5B893;
+    margin-left: 1rem;
+    text-decoration: none;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #13131b;
+    border-bottom: 2px solid #C8AA6E;
+  }
+  
+  .nav-link,
+  .navbar-brand {
+    color: #D5B893 !important;
+  }
+  
+  .nav-link:hover {
+    color: #C8AA6E !important;
+  }
+  
+  /* Botones */
+  .btn-primary {
+    background-color: #632024;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #4a181a;
+  }
+  
+  .btn-outline-light {
+    border-color: #D5B893;
+    color: #D5B893;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #D5B893;
+    color: #2E2E3A;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #2E2E3A;
+    color: #D5B893;
+    padding: 1rem 0;
+    margin-top: 3rem;
+    text-align: center;
+    border-top: 2px solid #C8AA6E;
+  }
+  
+  /* Cards */
+  .card {
+    background-color: #2E2E3A;
+    border: 1px solid #C8AA6E;
+  }
+  
+  .card-title,
+  h2 {
+    color: #D5B893;
+  }
+  
+  .card-text {
+    color: #f8f9fa;
+  }
+  
+  /* Bienvenida */
+  .bienvenida {
+    background-color: #2E2E3A;
+    border-left: 5px solid #C8AA6E;
+    padding: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+/* Contenedor */
+.tabla-contenedor {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: rgba(30, 30, 60, 0.6);
+    border: 1px solid #C8AA6E;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(200, 170, 110, 0.2);
+    padding: 1rem;
+  }
+  
+  /* Tablas */
+.tabla-magica {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(44, 44, 80, 0.5); 
+    color: #d1d3e0; 
+    border: 1px solid #C8AA6E;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(200, 170, 110, 0.2);
+  }
+  
+  /* Encabezado */
+  .tabla-magica thead {
+    background-color: #1A1A2E;
+    color: #D5B893;
+    font-size: 1.1rem;
+  }
+  
+  /* Celdas */
+  .tabla-magica th,
+  .tabla-magica td {
+    padding: 0.75rem;
+    border: 1px solid #C8AA6E;
+    background-color: rgba(30, 30, 60, 0.4);
+    vertical-align: middle;
+  }
+  
+  /* Hover */
+  .tabla-magica tbody tr:hover {
+    background-color: rgba(120, 120, 180, 0.15);
+    transition: background-color 0.3s ease;
+  }
+  
