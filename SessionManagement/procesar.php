@@ -1,8 +1,7 @@
 <?php
 
-/* Gonzalez Gutierrez Julieta Maiara
-    Legajo: VINF014900
-    Fecha de entrega: 07/04/2025
+/* Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Ejercicio 1 - PHP
     Tema: Sesiones y formularios
     Objetivo: Crear un formulario que permita ingresar datos y guardarlos en una sesión. 
