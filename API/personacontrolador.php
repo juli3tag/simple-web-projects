@@ -1,8 +1,7 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara
-    Legajo: VINF014900
-    Fecha de entrega: 05/05/2025
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Controlador para manejar la lógica de negocio de la API
     */
 
