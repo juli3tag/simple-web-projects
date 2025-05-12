@@ -1,6 +1,6 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripcion: Script principal para manejar la consulta de datos de una persona en la base de datos
     Este script recibe un ID a través de la URL y devuelve los datos de la persona en formato JSON.
