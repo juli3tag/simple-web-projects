@@ -1,8 +1,7 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara 
-    Legajo: VINF014900
-    Fecha de entrega: 28/04/2025
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripción: Edita un producto en la base de datos para el TP3 de la materia Programación Web.
 
     Este archivo recibe el ID del producto a editar y muestra un formulario con los datos actuales del producto.
