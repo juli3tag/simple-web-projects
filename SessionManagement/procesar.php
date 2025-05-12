@@ -1,6 +1,6 @@
 <?php
 
-/* Gonzalez Gutierrez Julieta Maiara 🌷
+/* Gonzalez Julieta 🌷
     
     Descripcion: Ejercicio 1 - PHP
     Tema: Sesiones y formularios
