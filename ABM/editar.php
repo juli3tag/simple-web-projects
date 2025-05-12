@@ -1,6 +1,6 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara 🌷
+/*  Gonzalez Julieta 🌷
     
     Descripción: Edita un producto en la base de datos para el TP3 de la materia Programación Web.
 
