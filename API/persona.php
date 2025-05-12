@@ -1,8 +1,7 @@
 <?php
 
-/*  Gonzalez Gutierrez Julieta Maiara
-    Legajo: VINF014900
-    Fecha de entrega: 05/05/2025
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Clase Persona para manejar la consulta de datos de una persona en la base de datos
     */
 
