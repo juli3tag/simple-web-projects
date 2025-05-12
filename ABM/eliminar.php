@@ -1,7 +1,6 @@
 <?php
-/*  Gonzalez Gutierrez Julieta Maiara 
-    Legajo: VINF014900
-    Fecha de entrega: 28/04/2025
+/*  Gonzalez Gutierrez Julieta Maiara 🌷
+    
     Descripcion: Elimina un producto de la base de datos para el TP3 de la materia Programación Web.
     Este archivo recibe el ID del producto a eliminar y lo elimina de la base de datos.
     */
